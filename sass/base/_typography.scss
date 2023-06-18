@@ -53,12 +53,14 @@ body {
 
 .section-content {
 	display: flex;
+	padding: 0 10rem;
 	&__text {
 		width: 50%;
 	}
 
 	&__image {
 		width: 50%;
+		padding-left: 5rem;
 	}
 }
 
